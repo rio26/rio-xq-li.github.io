@@ -764,6 +764,7 @@ ul.footer-bottom-list li a {
 /*-- gallery --*/
 section.gallery {
     background: #f0f4f4;
+    /*background: rgba(255, 255, 255, 0.12);*/
 }
 
 /*-- //gallery --*/
@@ -1163,6 +1164,5 @@ section.slide-wrapper {
     margin-bottom: 1em;
 }
 }
-
 
 /* -- //Responsive code -- */
